@@ -14,6 +14,8 @@ Joey Lee: https://github.com/Rockojoe2
 This repository is licensed by MIT. See https://mit-license.org/ to learn more.
 
 ## Usage
+**PLEASE CLEAR YOUR CACHE AND USE INCOGNITO BROWSER WHEN OPENING THE APPLICATION**
+
 Visit the deployed Heroku site here: https://micavilla-text-editor-80b2c8eb1dd0.herokuapp.com/
 
 Clone my GitHub repository from here: https://github.com/micavilla/text-editor
